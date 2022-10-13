@@ -1,5 +1,5 @@
-#Towela Banda
+# Towela Banda
 
-##Projects
+## Projects
 
-These are my poject...
+These are my project...
